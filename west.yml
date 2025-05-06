@@ -12,7 +12,7 @@ manifest:
     # SlimeVR-Tracker-nRF
     # Change the below to your repository if you are forking to build your custom firmware
     - name: SlimeVR-Tracker-nRF
-      url: https://github.com/SlimeVR/SlimeVR-Tracker-nRF.git
+      url: https://github.com/luckyw0lf/ShineNRF_SlimeVR-Tracker-nRF.git
       path: SlimeVR-Tracker-nRF
       revision: master
 
